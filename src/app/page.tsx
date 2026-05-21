@@ -74,7 +74,7 @@ export default function Home() {
             }}
             className="font-display text-5xl leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl"
           >
-          <span className="italic">學習</span>
+          <span className="italic">加油</span>
           <span>牆</span>
           <span className="text-primary">。</span>
           </motion.h1>
